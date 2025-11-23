@@ -46,7 +46,7 @@ Brain Tumor Dataset/
           ├── N1.jpg
           ├── N2.jpg
           └── ...
-
+          
 🔧 Technologies Used
 
 Python
@@ -103,13 +103,12 @@ project_root/
     └── data/
          ├── yes/
          └── no/
-
+         
 4. Run the notebook
 
 Open Jupyter Notebook / VS Code and run:
 
 Brain_Tumor_Classification.ipynb
-
 
 or run Python script if you convert it.
 
